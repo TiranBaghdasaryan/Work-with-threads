@@ -6,11 +6,13 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Work_with_threads.Context;
 
 namespace Work_with_threads
 {
@@ -30,6 +32,11 @@ namespace Work_with_threads
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Work_with_threads", Version = "v1" });
             });
+
+            services.AddDbContext<ApplicationContext>
+            (
+                options => options.UseNpgsql(Configuration.GetConnectionString("PostgresSql"))
+            );
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

@@ -1,0 +1,35 @@
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\appsettings.json
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Work with threads.exe
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Work with threads.deps.json
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Work with threads.runtimeconfig.json
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Work with threads.runtimeconfig.dev.json
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Work with threads.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\ref\Work with threads.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Work with threads.pdb
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\Work with threads.csproj.AssemblyReference.cache
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\Work with threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\Work with threads.AssemblyInfoInputs.cache
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\Work with threads.AssemblyInfo.cs
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\Work with threads.csproj.CoreCompileInputs.cache
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\Work with threads.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\Work with threads.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\staticwebassets\Work with threads.StaticWebAssets.Manifest.cache
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\staticwebassets\Work with threads.StaticWebAssets.xml
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\scopedcss\bundle\Work with threads.styles.css
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\Work with threads.RazorTargetAssemblyInfo.cache
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\Work with threads.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\ref\Work with threads.dll
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\Work with threads.pdb
+C:\Users\Acer\RiderProjects\Work with threads\Work with threads\obj\Debug\net5.0\Work with threads.genruntimeconfig.cache
