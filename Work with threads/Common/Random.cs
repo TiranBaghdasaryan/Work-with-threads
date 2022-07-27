@@ -7,7 +7,6 @@ namespace Work_with_threads.Common
     {
         private static readonly System.Random _random;
 
-        static Stack<string> numbers = new Stack<string>();
         private static List<string> formats = new List<string>() { "099", "077", "055" };
 
         static Random() => _random = new System.Random(DateTime.Now.Millisecond);
@@ -33,9 +32,6 @@ namespace Work_with_threads.Common
                 number += $"-{_random.Next(0, 10)}{_random.Next(0, 10)}";
             }
 
-            numbers.Push(number);
-            if (numbers.Contains(number)) 
-                return GetRandomNumber();
 
             return number;
         }
